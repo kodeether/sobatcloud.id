@@ -1,11 +1,11 @@
 {
-  "name": "anandamritraj.in",
+  "name": "sobatcloud.id",
   "private": true,
   "description": "Random stuff about code and life!",
   "version": "1.0.0",
   "author": "Anand Amrit Raj",
   "bugs": {
-    "url": "https://github.com/anamritraj/anandamritraj.in/issues"
+    "url": "https://github.com/anamritraj/sobatcloud.id/issues"
   },
   "dependencies": {
     "gatsby": "^2.0.76",
@@ -44,7 +44,7 @@
     "gh-pages": "^2.1.1",
     "prettier": "^1.14.2"
   },
-  "homepage": "https://anandamritraj.in",
+  "homepage": "sobatcloud.id",
   "license": "MIT",
   "scripts": {
     "dev": "env-cmd -f .env.development gatsby develop",
@@ -53,7 +53,7 @@
     "develop": "gatsby develop",
     "start": "npm run develop",
     "build": "rm -rf public && rm -rf .cache && gatsby build",
-    "deploy": "yarn build && cd public && now alias $(now) anandamritraj.in",
+    "deploy": "yarn build && cd public && now alias $(now) sobatcloud.id",
     "fix-semi": "eslint --quiet --ignore-pattern node_modules --ignore-pattern public --parser babel-eslint --no-eslintrc --rule '{\"semi\": [2, \"never\"], \"no-extra-semi\": [2]}' --fix gatsby-node.js",
     "git-deploy": "gatsby build --prefix-paths && gh-pages -d public"
   }

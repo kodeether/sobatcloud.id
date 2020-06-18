@@ -9,8 +9,8 @@ import { formatReadingTime } from '../utils/helpers'
 import { rhythm, scale } from '../utils/typography'
 
 const GITHUB_USERNAME = 'anamritraj'
-const GITHUB_REPO_NAME = 'anandamritraj.in'
-const PAGE_URL = 'https://anandamritraj.in'
+const GITHUB_REPO_NAME = 'sobatcloud.id'
+const PAGE_URL = 'https://sobatcloud.id'
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark

@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: 'anandamritraj.in',
-    author: 'Anand Raj',
-    description: 'Personal blog by Anand Raj. Learning by breaking stuff.',
-    siteUrl: 'https://anandamritraj.in',
+    title: 'assaf.cloudconnect.id',
+    author: 'Assaf Rahman',
+    description: 'Personal blog clone from Anand Raj. Learning by breaking stuff.',
+    siteUrl: 'https://mynotes.cloudconnect.id',
     social: {
-      twitter: '@anamritraj',
+      twitter: '@asshafrahman',
     },
   },
   pathPrefix: '/',
@@ -58,8 +58,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `anandamritraj.in`,
-        short_name: `anandamritraj.in`,
+        name: `mynotes.cloudconnect.id`,
+        short_name: `mynotes.cloudconnect.id`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#d23636`,

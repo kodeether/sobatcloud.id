@@ -29,8 +29,8 @@ class Bio extends React.Component {
         />
         <p>
           Personal blog by{' '}
-          <a href="https://twitter.com/anamritraj" target="_blank">
-            Anand Raj
+          <a href="https://twitter.com/asshafrahman" target="_blank">
+            Assaf Rahman
           </a>
           .<br></br>I learn by breaking stuff (mostly code).
         </p>
