@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'assaf.cloudconnect.id',
+    title: 'sobatcloud.id',
     author: 'Assaf Rahman',
     description: 'Personal blog clone from Anand Raj. Learning by breaking stuff.',
-    siteUrl: 'https://mynotes.cloudconnect.id',
+    siteUrl: 'https://sobatcloud.id',
     social: {
       twitter: '@asshafrahman',
     },
