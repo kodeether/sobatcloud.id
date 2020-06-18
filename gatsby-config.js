@@ -58,8 +58,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `cloudconnect.id`,
-        short_name: `cloudconnect.id`,
+        name: `sobatcloud.id`,
+        short_name: `sobatcloud.id`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#d23636`,
