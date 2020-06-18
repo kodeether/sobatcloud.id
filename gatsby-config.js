@@ -58,8 +58,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `mynotes.cloudconnect.id`,
-        short_name: `mynotes.cloudconnect.id`,
+        name: `cloudconnect.id`,
+        short_name: `cloudconnect.id`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#d23636`,
